@@ -1,3 +1,6 @@
 flask
 pyngrok
 line-bot-sdk
+requests
+gradio
+qrcode[pil]
